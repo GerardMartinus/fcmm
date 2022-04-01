@@ -1,0 +1,47 @@
+*{
+  margin: 0;
+  padding: 0;
+  border: 0;
+  text-decoration: 0;
+}
+.container{
+  position: absolute;
+  height: 100%;
+  width: 100%;
+}
+.center{
+  background-color: #21629e;
+  position: absolute;
+  width: 50%;
+  height: 50%;
+  top: 25%;
+  left: 25%;
+  border-radius: 20px;
+}
+.form{
+  position: absolute;
+  text-align: center;
+  top: 15%;
+  left: 25%;
+  width: 50%;
+  height: 70%;
+}
+.form ul{
+  padding: 10%;
+  list-style: none;
+}
+.form ul li{
+  padding: 5%;
+}
+.form input{
+  height: 40px;
+  width: 100%;
+  border-radius: 10px;
+}
+.btn{
+  background-color: #aaa;
+  color: #fff;
+}
+h1{
+  color: #fff;
+}
