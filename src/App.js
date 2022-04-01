@@ -10,6 +10,7 @@ function App() {
           <form>
             <fieldset>
               <ul>
+                <li><input type="text" placeholder="Apelido" /></li>
                 <li><input type="text" placeholder="E-mail" /></li>
                 <li><input type="text" placeholder="Senha" /></li>
                 <li><input type="submit" class="btn"/></li>
